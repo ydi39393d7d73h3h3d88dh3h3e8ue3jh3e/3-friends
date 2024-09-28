@@ -72,6 +72,11 @@ nav ul li a:hover {
     text-align: center;
     padding: 100px 0;
     background-attachment: fixed;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 .hero h2 {
