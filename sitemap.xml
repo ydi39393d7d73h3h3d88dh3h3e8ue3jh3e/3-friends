@@ -16,6 +16,20 @@
         <priority>0.8</priority>
     </url>
 
+    <url>
+        <loc>https://3-friends.ru/terms-of-use</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://3-friends.ru/privacy-policy</loc>
+        <lastmod>2024-09-28</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
     <!-- Services -->
     <url>
         <loc>https://3-friends.ru/services</loc>
