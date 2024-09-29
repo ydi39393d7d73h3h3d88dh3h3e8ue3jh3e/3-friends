@@ -35,10 +35,10 @@
 <feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_1_2"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_1_2" result="shape"/>
 </filter>
-<linearGradient id="paint0_linear_1_2" x1="7.45058e-06" y1="200" x2="300" y2="-7.45058e-07" gradientUnits="userSpaceOnUse">
+<!--<linearGradient id="paint0_linear_1_2" x1="7.45058e-06" y1="200" x2="300" y2="-7.45058e-07" gradientUnits="userSpaceOnUse">
 <stop stop-color="#00B49B" stop-opacity="0"/>
 <stop offset="0.45" stop-color="#00B9A0" stop-opacity="0.05"/>
 <stop offset="1" stop-color="#00BFA5" stop-opacity="0"/>
-</linearGradient>
+</linearGradient> -->
 </defs>
 </svg>
