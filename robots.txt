@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+
+# Allow full access to public sections
+Allow: / 
+
+# Sitemap URL
+Sitemap: https://3-friends.ru/sitemap.xml
